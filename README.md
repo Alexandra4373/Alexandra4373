@@ -1,28 +1,50 @@
-<h1 align="center">Hi 👋, I'm Alexandra</h1>
-<h3 align="center">I'm a Junior frontend developer from Ghana</h3>
 
+# Hi 👋, I'm Alexandra Naa Atswei Quao
 
-- 🔭 I’m currently working on **new projects**
+### Computer Scienctist| Aspiring Data & AI Engineer | Lifelong Learner
 
-- 🌱 I’m currently learning **Javascript(React)**
+I'm a Computer Science graduate from Ghana with an interest in building data-driven solutions and exploring how data, software engineering, and artificial intelligence come together to solve real-world problems.
 
-- 👯 I’m looking to collaborate on **frontend projects**
+I'm currently developing my skills across **Data Engineering, Data Science, AI/ML, DataOps, and MLOps**, with a focus on building practical projects and understanding how to take data and machine learning solutions from development to production.
 
-- 💬 Ask me about **anything**
+### 🌱 What I'm Currently Learning
 
-- 📫 How to reach me **alexandraquao@gmail.com**
+- **Data Engineering:** Data pipelines, data ingestion, transformation, orchestration, and workflow automation.
+- **Data Science & AI/ML:** Python, data analysis, exploratory data analysis, and machine learning.
+- **DataOps & MLOps:** Pipeline automation, experiment tracking, model deployment, and production workflows.
+- **Software Engineering:** APIs, FastAPI, Docker, Git, and cloud technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alexandraquao21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexandraquao21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alexandra naa atswei quao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandra naa atswei quao" height="30" width="40" /></a>
-<a href="https://fb.com/naa atswei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naa atswei" height="30" width="40" /></a>
-<a href="https://instagram.com/nhaaratswei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nhaaratswei" height="30" width="40" /></a>
-</p>
+### 🛠️ Languages, Tools & Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+**Programming & Data Analysis**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandra4373&show_icons=true&locale=en" alt="alexandra4373" /></p>
+Python · SQL · Pandas · NumPy · Polars · Matplotlib · Scikit-learn
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandra4373&" alt="alexandra4373" /></p>
+**Data Engineering & Orchestration**
+
+Prefect · REST APIs · HTTPX
+
+**Machine Learning & MLOps**
+
+Scikit-learn · MLflow
+
+**Backend & Deployment**
+
+FastAPI · Docker · Git · GitHub Actions
+
+### 🔭 What I'm Working Towards
+
+- Building end-to-end data engineering projects.
+- Developing and deploying machine learning applications.
+- Understanding production-grade data and ML workflows.
+- Exploring cloud infrastructure and scalable data systems.
+- Collaborating with others and contributing to meaningful projects.
+
+### 🤝 Let's Connect
+
+I'm always open to learning, sharing ideas, collaborating on projects, and connecting with people in the Data and AI community.
+
+📧 **Email:** [alexandraquao@gmail.com](mailto:alexandraquao@gmail.com)
+
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/alexandra-naa-atswei-quao-7642633b0/)
+
