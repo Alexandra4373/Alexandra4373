@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Alexandra 
 
-### Computer Scienctist| Aspiring Data & AI Engineer | Lifelong Learner
+### Computer Scientist | Aspiring Data & AI Engineer | Lifelong Learner
 
 I'm a Computer Science graduate from Ghana with an interest in building data-driven solutions and exploring how data, software engineering, and artificial intelligence come together to solve real-world problems.
 
