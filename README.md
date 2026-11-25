@@ -1,11 +1,11 @@
 
-# Hi 👋, I'm Alexandra Naa Atswei Quao
+# Hi 👋, I'm Alexandra 
 
 ### Computer Scienctist| Aspiring Data & AI Engineer | Lifelong Learner
 
 I'm a Computer Science graduate from Ghana with an interest in building data-driven solutions and exploring how data, software engineering, and artificial intelligence come together to solve real-world problems.
 
-I'm currently developing my skills across **Data Engineering, Data Science, AI/ML, DataOps, and MLOps**, with a focus on building practical projects and understanding how to take data and machine learning solutions from development to production.
+I'm currently developing my skills across **Data and AI world**, with a focus on building practical projects and understanding how to take data and machine learning solutions from development to production.
 
 ### 🌱 What I'm Currently Learning
 
